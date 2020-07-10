@@ -2,7 +2,10 @@
 The program will register runners for the race and give them instructions on race day.
 
 
-As a timeline, registration would look like this:registration-timeline
+As a timeline, registration would look like this:
+- 9:30 - Adult and registered early
+- 11:00 - Adult and registered late
+- 12:30 - All youth
 
 Here’s how our registration works. There are adult runners (over 18 years of age) and youth runners (under 18 years of age). They can register early or late. Runners are assigned a race number and start time based on their age and registration.
 
